@@ -29,12 +29,12 @@ Course of Temptation游戏授权中文本地化
 
 游戏完全免费游玩，**严禁**将中文本地化版本**用作商业盈利用途**或**公开大肆传播**，对于商业盈利或公开传播导致的可能法律后果完全由使用者自行承担，与汉化成员无关。
 
-如在游玩过程中遇到任何问题，或对汉化文本有建议，请[发布 issue(议题)][issues] 反馈，反馈时请附上出现问题时的**截图 + 游戏存档文件 / 游戏存档代码**，在其它平台反馈问题可能得不到回应。请不要删除自己的议题, 方便后来人查阅相关问题。请注意，本仓库仅解决由于游戏汉化版本导致的问题，如果问题在英文版能复现，请去游戏官方 [Discord][discord] 反映。
+如在游玩过程中遇到任何问题，或对汉化文本有建议，请[发布 issue(议题)][issues] 反馈，反馈时请附上出现问题时的**截图 + 游戏存档文件 / 游戏存档代码**，在其它平台反馈问题可能得不到回应。请不要删除自己的议题, 方便后来人查阅相关问题。请注意，本仓库仅解决由于游戏汉化版本导致的问题，如果问题在英文版能复现，请去游戏官方Discord反映。
 
 #### 发布下载版
-- 下载请见右侧/底部的 [releases(发行版)][releases-latest]
+- 下载请见右侧/底部的 releases(发行版)
 - 下载游玩请遵循如下步骤：
-  1. 如果你是第一次下载，请先在本仓库的[发行版][releases-latest]中下载含模组加载器的游戏本体：__CourseOfTemptation-ModLoader-xxx.zip__ 或 __CourseOfTemptation-ModLoader-xxx.apk__，此后除非有重大更新，否则可以不用重复下载
+  1. 如果你是第一次下载，请先在本仓库的releases中下载含模组加载器的游戏本体：__CourseOfTemptation-ModLoader-xxx.zip__ 或 __CourseOfTemptation-ModLoader-xxx.apk__，此后除非有重大更新，否则可以不用重复下载
     - 注意：游戏本体有 4 个版本的文件，请根据需要下载对应的文件
       - CourseOfTemptation-ModLoader-xxx.zip
       - CourseOfTemptation-ModLoader-xxx-polyfill.zip
