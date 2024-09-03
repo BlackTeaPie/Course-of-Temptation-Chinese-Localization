@@ -29,17 +29,17 @@ Course of Temptation游戏授权中文本地化
 
 游戏完全免费游玩，**严禁**将中文本地化版本**用作商业盈利用途**或**公开大肆传播**，对于商业盈利或公开传播导致的可能法律后果完全由使用者自行承担，与汉化成员无关。
 
-如在游玩过程中遇到任何问题，或对汉化文本有建议，请发布issue反馈，反馈时请附上出现问题时的**截图 + 游戏存档文件 / 游戏存档代码**，在其它平台反馈问题可能得不到回应。请不要删除自己的议题, 方便后来人查阅相关问题。请注意，本仓库仅解决由于游戏汉化版本导致的问题，如果问题在英文版能复现，请去游戏官方Discord反映。
+如在游玩过程中遇到任何问题，或对汉化文本有建议，请发布[issue](https://github.com/BlackTeaPie/Course-of-Temptation-Chinese-Localization/issues)反馈，反馈时请附上出现问题时的**截图 + 游戏存档文件 / 游戏存档代码**，在其它平台反馈问题可能得不到回应。请不要删除自己的议题, 方便后来人查阅相关问题。请注意，本仓库仅解决由于游戏汉化版本导致的问题，如果问题在英文版能复现，请去游戏官方Discord反映。
 
 #### 发布下载版
-- 下载请见右侧/底部的 releases(发行版)
+- 下载请见右侧/底部的 [releases(发行版)](https://github.com/BlackTeaPie/Course-of-Temptation-Chinese-Localization/releases/latest)
 - 下载游玩请遵循如下步骤：
-  1. 如果你是第一次下载，请先在本仓库的releases中下载含模组加载器的游戏本体：__CourseOfTemptation-ModLoader-xxx.zip__ 或 __CourseOfTemptation-ModLoader-xxx.apk__，此后除非有重大更新，否则可以不用重复下载
+  1. 如果你是第一次下载，请先在本仓库的releases中下载含模组加载器的游戏本体：__CoT-ModLoader-xxx.zip__ 或 __CoT-ModLoader-xxx.apk__，此后除非有重大更新，否则可以不用重复下载
     - 注意：游戏本体有 4 个版本的文件，请根据需要下载对应的文件
-      - CourseOfTemptation-ModLoader-xxx.zip
-      - CourseOfTemptation-ModLoader-xxx-polyfill.zip
-      - CourseOfTemptation-ModLoader-xxx.apk
-      - CourseOfTemptation-ModLoader-xxx-polyfill.apk
+      - CoT-ModLoader-xxx.zip
+      - CoT-ModLoader-xxx-polyfill.zip
+      - CoT-ModLoader-xxx.apk
+      - CoT-ModLoader-xxx-polyfill.apk
     - `apk` 代表着“安卓应用程序包”，可以直接在安卓系统上安装运行
     - `zip` 是压缩文件，其中的 `html` 文件是游戏本体，可以在任何浏览器上运行，因此既可以在电脑上运行，也可以在手机等移动设备上运行
     - 名称中含有“polyfill”的游戏本体意味着针对较旧版本的浏览器内核进行了一定程度的兼容，因此请优先下载**名称中不含 polyfill 的游戏文件**，如果无法正常运行，再下载**名称中含 polyfill 的游戏文件**尝试运行。
