@@ -6,7 +6,7 @@ Course of Temptation游戏授权中文本地化
 
 [![](https://dcbadge.vercel.app/api/server/PfFKvBxH68)](https://discord.gg/PfFKvBxH68)
 
-[中文社区模组收录](https://github.com/BlackTeaPie/CoT-Chinese-Mods)
+中文社区模组收录：[仓库](https://github.com/BlackTeaPie/CoT-Chinese-Mods)
 
 ---
 ## 目录
